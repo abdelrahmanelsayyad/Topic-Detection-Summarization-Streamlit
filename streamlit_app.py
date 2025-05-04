@@ -498,13 +498,7 @@ def main():
             st.rerun()
             
         st.markdown("---")
-        st.markdown("""
-        **Group members**
-        - Ahmed Mohammed Diab  
-        - Mohammed Elsaeed Abdelfatah Shalaby  
-        - Mohammed Ragab Mubarak  
-        - Youssef Mohammed Youssef
-        """)
+    
     
     # Main content area
     st.title("🔭 Meteor Bot – NLP Analysis Suite")
