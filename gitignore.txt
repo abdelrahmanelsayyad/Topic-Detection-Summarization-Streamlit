@@ -1,0 +1,10 @@
+# Byte‑compiled / cache
+__pycache__/
+*.py[cod]
+*.pkl
+*.cache
+# Virtual envs
+.venv/
+env/
+# Model files if you ever save them locally
+*.bin
